@@ -1,6 +1,6 @@
 <html>
 	
-	<title>Gmail Style Login page Design using HTML and CSS by - coder Glass</title>
+	<title>Sign in - Google Accountstitle>
 	<head>
 		<link type="text/css" rel="stylesheet" href="style.css" />
 		
@@ -59,9 +59,7 @@
 			<div id="info5">
 				    One Google Account for everything Google
 			</div>
-			<div>
-			    <img src="footer-logo.png" id="logo2" />
-			</div>
+		
 			
 			
 			<div id="bottom">
